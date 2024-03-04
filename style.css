@@ -345,7 +345,7 @@ section {
 article {
   display: flex;
   width: 10rem;
-  justify-content: space-around;
+  justify-content: center;
   gap: 0.5rem;
 }
 
