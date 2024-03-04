@@ -5,9 +5,9 @@ function toggleMenu(){
     icon.classList.toggle("open");
 }
 var typingEffect = new Typed(".typedText",{
-    strings : ["Engineer","Frontend Developer","Coder","Developer"],
+    strings : ["Engineer","Frontend Developer","Coder","Software Developer"],
     loop : true,
-    typeSpeed : 100, 
-    backSpeed : 80,
-    backDelay : 2000
+    typeSpeed : 20, 
+    backSpeed : 120,
+    backDelay : 2500
  })
