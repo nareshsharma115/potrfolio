@@ -49,6 +49,12 @@
   }
   
   @media screen and (max-width: 600px) {
+    .menu-links{
+      background: rgba(255, 255, 255, 0.2);
+      border-radius: 2.5rem;
+    }
+   
+   
     #contact,
     footer {
       height: 40vh;
@@ -89,11 +95,11 @@
     }
     .section__pic-container {
       width: auto;
-      height: 46vw;
+      height: 49vw;
       justify-content: center;
     }
     .section__text__p2 {
-      font-size: 1.25rem;
+      font-size: 1.75rem;
     }
     .title {
       font-size: 2rem;
